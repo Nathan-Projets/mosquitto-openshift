@@ -265,7 +265,7 @@ parameters:
   - name: SOURCE_REPOSITORY_URL
     displayName: Source Repository URL
     description: The URL of the repository with your application source code
-    value: https://github.com/tobru/mosquitto-openshift.git
+    value: https://github.com/Nathan-Projets/mosquitto-openshift.git
     required: true
   - name: GITHUB_WEBHOOK_SECRET
     description: A secret string used to configure the GitHub webhook
